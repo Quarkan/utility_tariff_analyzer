@@ -1,2 +1,2 @@
 hello
-***все данные для базы данных были взяты из официального источника***
+***All data for the database was taken from the official source***
