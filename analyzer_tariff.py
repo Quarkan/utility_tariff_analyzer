@@ -60,5 +60,4 @@ ax.set_ylabel('cost')
 ax.set_xlabel('age')
 plt.grid()
 plt.show()
-
-
+print('f')
