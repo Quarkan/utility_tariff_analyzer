@@ -1,7 +1,4 @@
 import sqlite3 as sq
-import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib.ticker import FixedFormatter,MaxNLocator,LinearLocator
 
 
 with sq.connect('indications_tariff.db') as sun:
