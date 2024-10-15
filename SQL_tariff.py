@@ -72,3 +72,4 @@ with sq.connect('indications_tariff.db') as sun:
     cur.execute("INSERT INTO data(UNIT_OF_MEASUREMENT,age,name,cost) VALUES('Руб. за 1 м3',2024,'вода',116.56)")
     cur.execute( "INSERT INTO data(UNIT_OF_MEASUREMENT,age,name,cost) VALUES('Руб. за кВт.ч',2024,'Электроэнергия',9.68)")
 
+
